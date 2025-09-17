@@ -1,0 +1,82 @@
+html {
+    --col-dark: #0f0f0f;
+    --col-light: #00db0f;
+    --col-accent: #dea0a0;
+}
+
+body {
+    margin-top: none;
+    margin-bottom: none;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    background-color: var(--col-dark);
+    color: var(--col-light);
+    font-family: monospace;
+}
+
+input {
+    width: 40ch;
+}
+
+.from_me {
+    font-style: italic;
+}
+
+.fade {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-family: monospace;
+    font-size: 1rem;
+}
+
+span {
+    opacity: 0
+}
+
+span.fade {
+    opacity: 1;
+}
+
+.episode {
+    font-weight: bold;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+h1 {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background-color: var(--col-dark);
+    margin: 0px;
+    padding: 1rem;
+}
+
+main {
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+
+input {
+    background-color: var(--col-dark);
+    color: var(--col-light);
+    width: 100%;
+    font-family: monospace;
+    border-width: 0px;
+    height: 3rem;
+}
+
+input:focus {
+    text-decoration: none;
+    border-color: #0f0f0f;
+    outline: none;
+}
+
+input::placeholder {
+    color: var(--col-light);
+    opacity: 0.8;
+}
