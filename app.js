@@ -20,7 +20,7 @@ const messages = [
     
     'pis $oPe 5: T5e Ap0c_aIyp se. -ffst_g    ee, mr P_-un_e Is- $-_- -.2 32. 12%#.', 
 
-    'Of course. Dear Employee Group 10, I would like to congratulate our department for fixing the Y2K crisis. Under my guidance, you all successfully rewrote all the lines of code and for that I am very proud of you all. I would like to also thank myself for my involvement in this matter, as I was a crucial part of this operation. Because of the newfound absence of the Y2K glitch, I am glad to say that all technology will be back in its rightful place, yet the usage of Google will be strictly limited in the workplace. Still, under every circumstance, Google must NOT be used in any work at all, or there will be consequences. I thank you for your participation, but I must take credit for this entire endeavour. Kind regards, Mr J. Plunge.',
+    'Of course. Dear Employee Group 10, I would like to congratulate our department for fixing the Y2K crisis. Under my guidance, you all successfully rewrote all the lines of code and for that I am very proud of you all. I would like to also thank myself for my involvement in this matter, as I was a crucial part of this operation. Because of the newfound absence of the Y2K glitch, I am glad to say that all technology will be back in its rightful place, yet the usage of Google will be strictly limited in the workplace. Still, under every circumstance, Google must NOT be used in any work at all, or there will be consequences. I thank you for your participation, but I must take credit for this entire endeavour. Kind regards, Mr J. Plunge. Is this email to your satisfaction?',
 
     "Thank you."
     ]
